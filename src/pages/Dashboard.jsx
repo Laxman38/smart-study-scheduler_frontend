@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import Gamification from "../components/Gamification";
-import SubjectPriority from "../components/SubjectPriority";
 import GoalCards from "../components/GoalCards";
 import ProgressTracker from "../components/ProgressTracker";
 import DashboardHeader from "../components/DashboardHeader";   

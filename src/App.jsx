@@ -5,7 +5,7 @@ import Calendar from './pages/Calendar';
 import Pomodoro from './pages/Pomodoro';
 import Progress from './pages/Progress';
 import Settings from './pages/Settings';
-import StudyPlan from './pages/Studyplan';
+import StudyPlan from './pages/StudyPlan';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
 import ProtectedRoute from './components/ProtectedRoute';
